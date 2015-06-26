@@ -7,6 +7,7 @@ This repo will be the starting ground for ideas/contribs
 * Ensure this framework can still run on mobile device, so that the same server infrastructure could run on a mobile device, and then support server-server communication using websockets for integration to a back-end platform
 
 #Resources
-* https://github.com/libuv/libuv
+* https://github.com/libuv/libuv -- Support Library for ASync I/O
 * http://gqadonis.com/idea-create-a-web-framework-for-swift/
 * https://www.chromium.org/spdy/spdy-whitepaper
+* https://github.com/izqui/Taylor -- HTTP processor written in Swift
